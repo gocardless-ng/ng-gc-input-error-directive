@@ -1,0 +1,6 @@
+[
+  "components/angular/angular.js",
+  "components/angular-mocks/angular-mocks.js",
+  "components/jasmine-helpers/*.js",
+  "src/**/*.spec.js"
+]
